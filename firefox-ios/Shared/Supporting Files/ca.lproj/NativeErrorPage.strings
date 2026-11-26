@@ -47,7 +47,7 @@
 "NativeErrorPage.GoBackButton.v149" = "Vés enrere (recomanat)";
 
 /* On error page, this is the description for no internet connection. */
-"NativeErrorPage.NoInternetConnection.Description.v131" = "Proveu de connectar-vos en un altre dispositiu. Reviseu el mòdem o l'encaminador. Desconnecteu-vos de la Wi-Fi i torneu-vos-hi a connectar.";
+"NativeErrorPage.NoInternetConnection.Description.v131" = "Proveu de connectar-vos en un altre dispositiu. Reviseu el mòdem o l’encaminador. Desconnecteu-vos de la Wi-Fi i torneu-vos-hi a connectar.";
 
 /* On error page, this is the title for no internet connection */
 "NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "Sembla que hi ha un problema amb la connexió a Internet.";
